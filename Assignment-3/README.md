@@ -5,17 +5,14 @@ The objective of Assignment No. 3 is to create a simple calculator program using
 <b>Instructions</b></br>
 Create a Python program that acts as a calculator using user-defined functions.</br>
 Provide a menu to the user with the following options:</br>
-Addition</br>
-Subtraction</br>
-Multiplication</br>
-Division</br>
+<ul>
+<li>Addition</li></br>
+<li>Subtraction</li></br>
+<li>Multiplication</li></br>
+<li>Division</li></br>
+</ul>
 </br></br>
-Define a separate user-defined function for each option to perform the corresponding operation.</br>
-Prompt the user to select an operation by entering a number (e.g., 1 for addition, 2 for subtraction, etc.).</br>
-Depending on the user's choice, call the corresponding function to perform the calculation.</br>
-Prompt the user to enter two numbers to perform the selected operation on.</br>
-Display the result of the calculation.</br>
-Allow the user to perform additional calculations or exit the program.</br>
+Define a separate user-defined function for each option to perform the corresponding operation. Prompt the user to select an operation by entering a number (e.g., 1 for addition, 2 for subtraction, etc.). Depending on the user's choice, call the corresponding function to perform the calculation. Prompt the user to enter two numbers to perform the selected operation on. Display the result of the calculation. Allow the user to perform additional calculations or exit the program.</br>
 </br>
 <b>Example</b></br>
 </br>
