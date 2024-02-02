@@ -3,10 +3,10 @@
 
 <b>Problem #1: Number Checker</b></br>
 Develop a Python program (problem1.py) that checks whether a number is positive, negative, or zero.
-<br>
+<br><br>
 <b>Problem #2: Power and Square Root Calculator</b></br>
 Develop a Python application (problem2.py) that takes any integer input from the user and calculates the power value (exponent value) and the square root of that number.
-<br>
+<br><br>
 <b>Problem #3: Simple Calculator</b></br>
 Develop a Python program (problem3.py) to create a simple calculator with the following functions:
 <br>
