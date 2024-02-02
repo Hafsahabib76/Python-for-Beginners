@@ -1,24 +1,13 @@
-Assignment # 4 - Arithmetic Module
+<h1>Python Assignment 4</h1>
 
-Objective: Create a Python module named "arithmetic" containing seven functions, each corresponding to one of the commonly used arithmetic operators:
-
-Addition:
-Function: add(x, y)
-
-Subtraction:
-Function: subtract(x, y)
-
-Multiplication:
-Function: multiply(x, y)
-
-Division:
-Function: divide(x, y)
-
-Floor Division (integer division):
-Function: floor(x, y)
-
-Modulus (remainder):
-Function: modulus(x, y)
-
-Exponentiation:
-Function: exponentiate(x, y)
+<b>Objective:</b></br>
+Create a Python module named "arithmetic" containing seven functions, each corresponding to one of the commonly used arithmetic operators:</br>
+<ul>
+<li>Addition</li>
+<li>Subtraction</li>
+<li>Multiplication</li>
+<li>Division</li>
+<li>Floor Division (integer division)</li>
+<li>Modulus (remainder)</li>
+<li>Exponentiation</li>
+</ul>
