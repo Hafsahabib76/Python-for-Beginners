@@ -1,5 +1,5 @@
 
-Python Assignment 1
+<h1>Python Assignment 1</h1>
 
 Problem #1: Number Checker
 Develop a Python program (problem1.py) that checks whether a number is positive, negative, or zero.
